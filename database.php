@@ -1,5 +1,5 @@
 <?php
-
+//se realiza la conexion a la base de datos con el método PDO
     $servername = "localhost";
     $username = "root";
     $password = "";
